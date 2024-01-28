@@ -48,15 +48,13 @@ def phase(a):
     elif a[0] == 0:
         angle = math.pi/2 if a[1] > 0 else -math.pi/2
     else:
-        angle = round(math.atan(a[0]/a[1]), 2)
+        angle = round(math.atan(a[1]/a[0]), 2)
     return angle
 
 
 def cartesian_polar(a):
-    ρ = round(modulus(a), 2)
-    θ = round(phase(a), 2)
-    pr = round(ρ*math.cos(θ), 2)
-    pi = round(ρ*math.sin(θ), 2)
+    pr = round(modulus(a), 2)
+    pi = round(phase(a), 2)
     return pr, pi
 
 
