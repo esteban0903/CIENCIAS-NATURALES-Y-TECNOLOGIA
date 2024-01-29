@@ -6,12 +6,12 @@ El siguiente proyecto tiene como objetivo proporcionar una herramienta para real
 
 Para probar el funcionamiento del programa desarrollado, se requiere descargar los archivos "Operations.py" y su "test.py". Además, es necesario contar con un entorno de desarrollo como PyCharm o Visual Studio para visualizar y ejecutar el proyecto.
 
-## Ejecución de las pruebas
+### Ejecución de las pruebas
 
 Cada operación ofrecida en esta calculadora básica de números complejos tiene definidas dos pruebas para verificar su funcionalidad inicialmente. Utilizamos la librería unittest para comparar los valores que deberíamos obtener, lo que nos permite ejecutar las pruebas fácilmente y detectar errores.
 
 
-### ¿ Por que estas pruebas?
+### ¿ Por qué estas pruebas?
 
 A lo largo de las pruebas, se implementaron diversos ejemplos utilizando diferentes números complejos para verificar el correcto funcionamiento de la calculadora. Por ejemplo, en la suma, se utilizó la operación (-1 + 2i) + (1 - 2i) para evaluar el funcionamiento general con distintos tipos de números.
 
@@ -27,7 +27,7 @@ El resto de las operaciones fueron probadas con casos generales para verificar s
 
 
 
-## Authors
+### Authors
 
 * **Esteban Aguilera Contreras** - 
 
