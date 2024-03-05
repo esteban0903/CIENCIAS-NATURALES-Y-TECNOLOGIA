@@ -1,4 +1,5 @@
-# Libreria de números complejos
+# Programa simulación de lo clásico a lo cuántico
+
 
 Este proyecto se centra en el modelado de sistemas clásicos, probabilísticos y cuánticos. Explora los fundamentos del modelado de estos sistemas, abordando conceptos clave, técnicas de modelado y aplicaciones prácticas en diversas áreas
 
